@@ -1,1 +1,2 @@
-# Slave-To-The-Algorithm-
+# Slave To The Algorithm  
+## Vinny
