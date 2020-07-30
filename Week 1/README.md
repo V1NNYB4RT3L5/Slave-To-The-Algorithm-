@@ -10,6 +10,7 @@ Instagram.<br/>
 
 **Ryoji Ikeda**<br/>
 I found the work of Ryoji Ikeda extremely immersive and unlike the work of David Szakaly it relies much more on the environment that it is presented in. When exhibiting ‘*The Radar*’ on a beach in Rio De Janeiro Ikeda explained how without the human interaction with his work and the sound and movement of the waves against the shore the work was not complete.<br/>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/radar%20rio.jpg>
 https://www.instituteforpublicart.org/case-studies/the-radar/<br/>
 https://vimeo.com/49302903<br/>
 The Radar (2012), Rio De Janeiro.<br/>
