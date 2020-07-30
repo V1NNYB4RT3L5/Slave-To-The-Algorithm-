@@ -18,7 +18,7 @@ Test Pattern (2014), Time Square.<br/>
 
 **Andreas Angelidakis**<br/>
 Some really awesome work on his blog, mostly architural, I really enjoy the pixelated quality of his rendering. Struggling to find what of his work is parametric or generative design though.<br/>
-<img srch=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/Andreas9.jpg><br/>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/Andreas9.jpg>
 http://andreasangelidakis.blogspot.com/<br/>
 
 **David Klein**<br/>
