@@ -22,7 +22,8 @@ Some really awesome work on his blog, mostly architural, I really enjoy the pixe
 http://andreasangelidakis.blogspot.com/<br/>
 
 **David Klein**<br/>
-Example of parametric typography that I think is really great. Depending on the time some of the variations can look really cool but I wonder if you were shown the typeface without knowing the story behind why it looks the way it does if it would still be an attractive typeface. Computer generated typefaces.  
+Example of parametric typography that I think is really great. Depending on the time some of the variations can look really cool but I wonder if you were shown the typeface without knowing the story behind why it looks the way it does if it would still be an attractive typeface. Computer generated typefaces.<br/>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/no%20regrets%20.png>
 http://b.parsons.edu/~kleid973/typeface/<br/>
 No regrets.<br/>
 ## Week 1 Activity - Parametric Drawing.  
