@@ -22,7 +22,7 @@ http://andreasangelidakis.blogspot.com/<br/>
 
 **David Klein**<br/>
 Example of parametric typography that I think is really great. Depending on the time some of the variations can look really cool but I wonder if you were shown the typeface without knowing the story behind why it looks the way it does if it would still be an attractive typeface. Computer generated typefaces.  
-http://b.parsons.edu/~kleid973/typeface/
+http://b.parsons.edu/~kleid973/typeface/<br/>
 No regrets.<br/>
 ## Week 1 Activity - Parametric Drawing.  
 Here I created 4 different characteristics colour, shape, canvas shape and line type with 6 variations within each (apologies for the orange and yellow being quite faint).<br/>
