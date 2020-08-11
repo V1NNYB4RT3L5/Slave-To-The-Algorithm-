@@ -18,7 +18,7 @@ http://www.robotpoetryreading.com/<br/>
 https://www.angeloplessas.com/<br/>
 ### Samuel Monnier
 An explanation of [Fractal Mondrian](http://www.algorithmic-worlds.net/blog/blog.php?Post=20110201)<br/>
-<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%202/Fracctal%20modrian.jpg)>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%202/fraactal%20mondrian.jpg>
 ### ...
 We then dove into our first processing lesson, and after learning a few simple tricks such as creating **lines**, **ellipses**, **rectangles**, and giving them **colour** and/or **stroke**, or making their position or colour dependent on the **position of the mouse**, we were asked to create a self portrait. <br/>
 
