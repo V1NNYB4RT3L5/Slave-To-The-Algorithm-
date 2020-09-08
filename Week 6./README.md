@@ -8,5 +8,5 @@ My group worked on creating a paper prototype for Space invaders. <br/>
 <img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%206./spaceinvaders.gif"> 
   
 ## Processing. 
-
+## Inspo recieved from Louis. 
 
