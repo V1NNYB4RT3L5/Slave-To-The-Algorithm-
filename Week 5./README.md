@@ -25,5 +25,5 @@ Algorithmic methods of type design. <br/>
  ### [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) 
 
 ## feedback/inspo from Michael.[
-SpaceTypeContinuum](https://github.com/SpaceTypeContinuum/generative-typography)
+[SpaceTypeContinuum](https://github.com/SpaceTypeContinuum/generative-typography)
 
