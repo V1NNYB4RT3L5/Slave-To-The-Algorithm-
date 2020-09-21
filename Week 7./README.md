@@ -16,5 +16,7 @@ https://p5js.org/libraries/ <br/>
 https://brm.io/matter-js/ <br/>
 https://threejs.org/
 ### Processing - Wiggly letters. 
+<p align="center">
+  <img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%207./wiggly-letters.gif">
 
 
