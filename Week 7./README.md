@@ -7,7 +7,8 @@ Michael, Louis and Karen were extremely helpful and gave me a few ideas for wher
 - SVG to processing/ identify anchor points of all possible typefaces then randomly select anchorpoints and combine to create each character. 
 https://www.processing.org/examples/loaddisplaysvg.html <br/>
 - Breziers to connect anchor points with a clean curve. 
-https://processing.org/reference/bezier_.html
+https://processing.org/reference/bezier_.html <br/>
+I also recieved a link from Karen to the [Geomerative](http://www.ricardmarxer.com/geomerative/)which has been created to facilitate process of making generative typography and shapes in Processing. 
     
 ### Talk about Github becoming our website
 [Useful video](https://pages.github.com/) showing how we can make our githubs visible on a public domain.
@@ -16,7 +17,7 @@ https://p5js.org/libraries/ <br/>
 https://brm.io/matter-js/ <br/>
 https://threejs.org/
 ### Processing - Wiggly letters. 
-<p align="center">
+This weeks task involved classes, which I still do not understand so I will get back to writing about this weeks processing. 
   <img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%207./wiggly-letters.gif">
 
 
