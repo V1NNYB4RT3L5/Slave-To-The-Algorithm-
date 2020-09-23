@@ -8,8 +8,7 @@ Karen sugested that I look into transferring tabular data to processing, allowin
 For our processing class we looked at speech in P5.js using this [extention](https://idmnyu.github.io/p5.js-speech/) we were able to speak into our microphones and processing would turn that into words on our screen. <br/>
 
 ### Prototype survey screen. 
-<img allign = center>
-<img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%208./mytype.gif"><br/>
+<img allign = center><img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%208./mytype.gif"><br/>
 
 Next step: when mouse presses answer associated typeface is loaded and letter A appears in box ready to by joined by other typefaces that it will be merged with. 
 
