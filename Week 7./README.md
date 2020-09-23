@@ -8,7 +8,7 @@ Michael, Louis and Karen were extremely helpful and gave me a few ideas for wher
 https://www.processing.org/examples/loaddisplaysvg.html <br/>
 - Breziers to connect anchor points with a clean curve. 
 https://processing.org/reference/bezier_.html <br/>
-I also recieved a link from Karen to the [Geomerative](http://www.ricardmarxer.com/geomerative/)which has been created to facilitate process of making generative typography and shapes in Processing. 
+I also recieved a link from Karen to the [Geomerative](http://www.ricardmarxer.com/geomerative/) which has been created to facilitate process of making generative typography and shapes in Processing. 
     
 ### Talk about Github becoming our website
 [Useful video](https://pages.github.com/) showing how we can make our githubs visible on a public domain.
