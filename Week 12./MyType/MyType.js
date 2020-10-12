@@ -28,7 +28,7 @@ noStroke();
   textAlign(RIGHT,BOTTOM);
   textFont(PT);
   textSize(65);
-  text('MyType',windowWidth-50,120);
+  text('MyType',windowWidth-50,100);
   let s = 'Answer the following questions to discover your personal typeface...';
   textAlign(LEFT,TOP);
   textFont(PT);
