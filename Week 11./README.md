@@ -1,0 +1,6 @@
+# Week 11.
+
+## Making shapes from textToPoints. 
+<img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.16.57%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.15.30%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.15.02%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%2010.50.01%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%2010.27.00%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.42.35%20pm.png"><img height="200" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.46.42%20pm.png">
+<img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-09%20at%2010.15.49%20am.png">
+
