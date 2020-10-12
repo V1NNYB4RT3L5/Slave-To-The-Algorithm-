@@ -22,7 +22,7 @@ noStroke();
   textAlign(RIGHT,BOTTOM);
   textFont(font5);
   textSize(65);
-  text('MyType',windowWidth-50,125);
+  text('MyType',windowWidth-50,100);
   let s = 'Answer the following questions to discover your personal typeface...';
   textAlign(LEFT,TOP);
   textFont(font5);
@@ -106,7 +106,7 @@ points10 = font10.textToPoints('A', (width/2)-253, (height/2)+255, 730, {
   noStroke();
   fill(0);
   textFont(font5);
-  textSize(14);
+  textSize(12);
   //text('Q.1 - How old are you?',windowWidth/20,windowHeight/1.14);
   //text('Q.2 - What size are you?',windowWidth/3.8, windowHeight/1.14);
   //text('Q.3 - Favourite pet?',windowWidth/2.2, windowHeight/1.14);
