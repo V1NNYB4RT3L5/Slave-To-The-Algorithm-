@@ -8,19 +8,19 @@ The process begins with your input of answers to a series of questions about you
 ### MIT Media Lab Logo. 
 Created by studio Thegreeneyl in collaboration with E Roon Kang, this MIT Media Lab visual identity has 45,000 variations. A custom web interface was developed in order to allow any member of the media lab to create and claim their very own shape. This work was appealing to me when in the process of figuring out how to create a unique typeface for each individual who uses my typeface generator, leading me to an idea of stacking prexisting typefaces on top of one another and sitting them on a grid then allocating different squares of the grid to different typefaces. <br/>
 <p align="center">
-<img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./Screen%20Shot%202020-08-19%20at%2010.14.59%20pm.png"> 
-  <img width="380" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./MIT%20MEDIA%20LAB.jpg"> <br/> 
+<img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./Screen%20Shot%202020-08-19%20at%2010.14.59%20pm.png"> 
+  <img width="380" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MIT%20MEDIA%20LAB.jpg"> <br/> 
  
 ### Metaflop.
 [Metaflop](https://www.metaflop.com/), founded by Alexis Reigel and Marco Muller, is a web-based graphical user interface allowing non-programmers to adjust the parameters of a metafont to their desire. This begins with the master metafont which in this case here is bespoke, the user can then manipulate its anatomy creating their very own typeface by using the sliding bars to set their parameters for each characteristic. I used this as an example as I thought of possibly associating all possible answers to my typeface generator survey questions with a metaphont parameter value. <br/>
 <p align="center">
-<img width="500" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./Screen%20Shot%202020-08-19%20at%2012.58.20%20pm.png"> 
+<img width="500" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./Screen%20Shot%202020-08-19%20at%2012.58.20%20pm.png"> 
 
 ### *Other Findings during my research*
 ### [MuirMcNeil](https://muirmcneil.com/projects/)
 Algorithmic methods of type design. <br/>
 <p align="center">
-<img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./MP_Intersect.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./MP_Panopticon.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%205./MP_ThreeSix.jpg"> <br/>
+<img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Intersect.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Panopticon.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_ThreeSix.jpg"> <br/>
   
  ### [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) 
 
