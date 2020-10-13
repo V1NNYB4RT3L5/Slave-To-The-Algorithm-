@@ -14,5 +14,5 @@ A typeface generator that creates you your very own type face based on your answ
 After a series of discussions with Karen, Andy and a few of my class mates I came to the decision that I wanted to persue the Tpeface Generator idea. The idea of choosing a topic in an area that you would like to learn about had been pushed alot throughout the discussions so I decided that generative type was the way to go as my interest in this area has been growing week by week.<br/>
 
 ### Images from processing lesson.  
-<img src= https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2004./Screen%20Shot%202020-08-14%20at%2011.06.17%20am.png>
+<img width ="400"src= https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2004./Screen%20Shot%202020-08-14%20at%2011.06.17%20am.png>
 <img src= https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2004./Screen%20Shot%202020-08-14%20at%202.10.15%20pm.png>
