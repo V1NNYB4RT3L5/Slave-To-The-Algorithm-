@@ -8,4 +8,4 @@ After some help from Karen with textToPoints and a look into the various ways of
 . textToPoints not listening to textAlign so letter outlines are not stacking on top of one another from the centre. <br/>
 . Differing letter height, even tho textSize is the same each letter has their own size. <br/>
 
-<img src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%209./MyType.P5.gif>
+<img src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2009./MyType.P5.gif>
