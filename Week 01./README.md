@@ -10,7 +10,7 @@ Instagram.<br/>
 
 **Ryoji Ikeda**<br/>
 I found the work of Ryoji Ikeda extremely immersive and unlike the work of David Szakaly it relies much more on the environment that it is presented in. When exhibiting ‘*The Radar*’ on a beach in Rio De Janeiro Ikeda explained how without the human interaction with his work and the sound and movement of the waves against the shore the work was not complete.<br/>
-<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/radar%20rio.jpg>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2001./radar%20rio.jpg>
 https://www.instituteforpublicart.org/case-studies/the-radar/<br/>
 https://vimeo.com/49302903<br/>
 The Radar (2012), Rio De Janeiro.<br/>
@@ -19,14 +19,14 @@ Test Pattern (2014), Time Square.<br/>
 
 **Andreas Angelidakis**<br/>
 Some really awesome work on his blog, mostly architural, I really enjoy the pixelated quality of his rendering. Struggling to find what of his work is parametric or generative design though.<br/>
-<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/Andreas9.jpg>
+<https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2001./Andreas9.jpg>
 http://andreasangelidakis.blogspot.com/<br/>
 
 **David Klein**<br/>
 Example of parametric typography that I think is really great. Depending on the time some of the variations can look really cool but I wonder if you were shown the typeface without knowing the story behind why it looks the way it does if it would still be an attractive typeface. Computer generated typefaces.<br/>
-<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/no%20regrets%20.png>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2001./no%20regrets%20.png>
 http://b.parsons.edu/~kleid973/typeface/<br/>
 No regrets.<br/>
 ## Week 1 Activity - Parametric Drawing.  
 Here I created 4 different characteristics colour, shape, canvas shape and line type with 6 variations within each (apologies for the orange and yellow being quite faint).<br/>
-<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%201/Week%201%20activity.jpg>
+<img src=https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2001./Week%201%20activity.jpg>
