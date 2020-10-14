@@ -95,3 +95,7 @@ And here is the link: https://v1nnyb4rt3l5.github.io/Slave-To-The-Algorithm-/Wee
 
 <p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./MYTYPEfinal.gif>
   
+## Reflection
+
+
+  
