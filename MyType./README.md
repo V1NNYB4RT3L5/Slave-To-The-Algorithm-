@@ -60,14 +60,14 @@ After relying on a very specific mousePressed function to answer the survey ques
 ## Progress
 
 Building upon my processing prototype using my new found knowledge of textToPoints and createCheckbox I made the move to P5js and created a sketch that showed the answers presenting their array of points when checked. The aim is to use a collection of well renowned typefaces that are as different from one in other in appearance as possible but at the moment my OTF collection is not very extensive.<br/>
-Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2009./checked_box_coloured
+Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2009./checked_box_coloured <br/>
 Typefaces used so far:
-AdobeHebrew - designed by John Hudson and Robert Slimbach.
-Adobe Thai - designed by Fiona Ross, John Hudson, Robert Slimbach, and Tim Holloway.
-Chalkboard - unknown. 
-Free Sans -  designed by Primož Peterlin, Steve White. 
-Futura - designed by Paul Renner, Tommy Thompson, Edwin W. Shaar
-Courier -  designed by Howard Bud Kettler.
+**AdobeHebrew** - designed by John Hudson and Robert Slimbach.
+**Adobe Thai** - designed by Fiona Ross, John Hudson, Robert Slimbach, and Tim Holloway.
+**Chalkboard** - unknown. 
+**Free Sans** -  designed by Primož Peterlin, Steve White. 
+**Futura** - designed by Paul Renner, Tommy Thompson, Edwin W. Shaar
+**Courier** -  designed by Howard Bud Kettler.
 
 <p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2009./MyType.P5.gif>
   
