@@ -61,6 +61,13 @@ After relying on a very specific mousePressed function to answer the survey ques
 
 Building upon my processing prototype using my new found knowledge of textToPoints and createCheckbox I made the move to P5js and created a sketch that showed the answers presenting their array of points when checked. The aim is to use a collection of well renowned typefaces that are as different from one in other in appearance as possible but at the moment my OTF collection is not very extensive.<br/>
 Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2009./checked_box_coloured
+Typefaces used so far:
+AdobeHebrew - designed by John Hudson and Robert Slimbach.
+Adobe Thai - designed by Fiona Ross, John Hudson, Robert Slimbach, and Tim Holloway.
+Chalkboard - unknown. 
+Free Sans -  designed by Primož Peterlin, Steve White. 
+Futura - designed by Paul Renner, Tommy Thompson, Edwin W. Shaar
+Courier -  designed by Howard Bud Kettler.
 
 <p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2009./MyType.P5.gif>
   
@@ -74,8 +81,10 @@ Here is the link: https://v1nnyb4rt3l5.github.io/Slave-To-The-Algorithm-/Week%20
 
 <p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./ExampleLetter.gif>
   
-My next step was to look into how to combine these arrays of points. 
+My next step was to look into how to combine these arrays of points. I started in illustrator just to experiment with how this may be possible, looking at either combining the letter in an organised way using anchor points and connecting paths of different letters, or the more jaggered splicing approach based on choosing segments of letters between certain x/y locations. 
 
+<p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./Anchors%20or%20pixel%20splice-01.jpg>
+  
 ## Research 
 
 In a seperate sketch I began working with the [beginShape function](https://p5js.org/reference/#/p5/beginShape) which allows more complex shapes to be created by recording vertices, therefore by using the vertices that I had gathered from the textToPoints function theoretically I would be able to create the shapes of the letters. 
