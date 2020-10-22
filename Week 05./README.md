@@ -24,6 +24,8 @@ Created by [Studio Thegreeneyl](http://www.thegreeneyl.com/) in collaboration wi
 Algorithmic methods of type design. <br/>
 <p align="center">
 <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Intersect.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Panopticon.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_ThreeSix.jpg"> <br/>
+<p Align = left> Images sourced from:
+  . https://muirmcneil.com/ <br/>
   
  . [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) <br/>
 
