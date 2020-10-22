@@ -17,12 +17,14 @@ Created by [Studio Thegreeneyl](http://www.thegreeneyl.com/) in collaboration wi
 <img width="500" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./Screen%20Shot%202020-08-19%20at%2012.58.20%20pm.png"> 
 
 ### *Other Findings during my research*
-### [MuirMcNeil](https://muirmcneil.com/projects/)
+. [MuirMcNeil](https://muirmcneil.com/projects/)<br/>
 Algorithmic methods of type design. <br/>
 <p align="center">
 <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Intersect.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_Panopticon.jpg"> <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MP_ThreeSix.jpg"> <br/>
   
- ### [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) 
+ . [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) <br/>
+
+at this stage the processes behind these examples of generative typography havn't had a great influence on me how ever the abstract styles definitely have.
 
 ## feedback/inspo from Michael.[
 [SpaceTypeContinuum](https://github.com/SpaceTypeContinuum/generative-typography)
