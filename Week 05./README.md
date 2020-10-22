@@ -10,6 +10,9 @@ Created by [Studio Thegreeneyl](http://www.thegreeneyl.com/) in collaboration wi
 <p align="center">
 <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./Screen%20Shot%202020-08-19%20at%2010.14.59%20pm.png"> 
   <img width="380" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MIT%20MEDIA%20LAB.jpg"> <br/> 
+<p Align = left> Images sourced from:
+  . https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_mit_media_lab_by_pentagram.php 
+  . https://www.fastcompany.com/1663378/mit-media-labs-brilliant-new-logo-has-40000-permutations-video <br/>
  
 ### Metaflop.
 [Metaflop](https://www.metaflop.com/), founded by Alexis Reigel and Marco Muller, is a web-based graphical user interface allowing non-programmers to adjust the parameters of a metafont to their desire. This begins with the master metafont which in this case here is bespoke, the user can then manipulate its anatomy creating their very own typeface by using the sliding bars to set their parameters for each characteristic. I used this as an example as I thought of possibly associating all possible answers to my typeface generator survey questions with a metaphont parameter value. <br/>
