@@ -24,7 +24,7 @@ Algorithmic methods of type design. <br/>
   
  . [collection](http://generativetypography.com/) of generative typography by Kyuha Shim. (video) <br/>
 
-at this stage the processes behind these examples of generative typography havn't had a great influence on me how ever the abstract styles definitely have.
+at this stage the processes behind these examples of generative typography havn't had a great influence on me however the abstract styles definitely have.
 
 ## feedback/inspo from Michael.[
 [SpaceTypeContinuum](https://github.com/SpaceTypeContinuum/generative-typography)
