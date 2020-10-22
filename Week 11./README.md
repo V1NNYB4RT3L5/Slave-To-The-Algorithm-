@@ -7,9 +7,9 @@ Andy pushed me to focus on the design side of things as up to this point my focu
 I then spoke with Karen who was interested in me completing the function of my generator, and encouraged me that it was not as hard to merge my 2 sketches as I thought. She noticed that at the moment more than 1 answer to each question could be selected and directed me to use [createRadio](https://p5js.org/reference/#/p5/createRadio) which would only allow one answer. My next step was to merge my sketch combining the letter forms with my sketch of how the generator should function. 
 
 ### Finishing touches.
-After applying the createRadio function the idea became a whole lot more achievable. Using what I had found with the beginShape function I gave each possible radio option an outcome that drew a specific section of a letter meaning that once all questions were answered a hybrid letter is formed. Following Andy's advice of approaching the layout in a more minimal way I was not only able to create a more visually pleasing display but it also allowed me to focus on screen size which would benefit the sharing of the project very much.  <br/>
-Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2012./MyTypeGenerator<br/>
-And here is the link: https://v1nnyb4rt3l5.github.io/Slave-To-The-Algorithm-/Week%2012./MyTypeGenerator/index.html
+After applying the createRadio function the idea became a whole lot more achievable. Using what I had found with the beginShape function I gave each possible radio option an outcome that drew a specific section of a letter meaning that once all questions were answered a hybrid letter is formed. Following Andy's advice of approaching the layout in a more minimal way I was not only able to create a more visually pleasing display but it also allowed me to focus on screen size sensitivity which I had been having issues with until now.  <br/>
+**Here is the code:** https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2012./MyTypeGenerator<br/>
+**And here is the link:** https://v1nnyb4rt3l5.github.io/Slave-To-The-Algorithm-/Week%2012./MyTypeGenerator/index.html
 
 <p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./MYTYPEfinal.gif>
 
