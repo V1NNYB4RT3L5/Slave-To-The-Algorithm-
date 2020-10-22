@@ -19,7 +19,5 @@ Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/m
 
 <p Align = center ><img src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2009./MyType.P5.gif>
 
-The biggest issue I found here was that regardless of being the same fontSize the letters were different sizes and not stacking up in a way that would allow them to be combined how I desired them to. In order to fix this I gave each array of points a specific font size and location that would allow them all to sit within the same set of boundaries. 
 
-<p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./samesize.gif>
 
