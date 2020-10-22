@@ -19,10 +19,11 @@ http://generative-typografie.de/generativetypografie/fontmix/
 
 There was alot of talk about [libraries](https://processing.org/reference/libraries/#typography).<br/>
 
+### Prototype survey screen. 
+
 I had began trying to figure out how to make this system in Processing. So far I had played around with loading in an example letter as an image and trying to manipulate the array of pixels by only allowing a select section to appear but I was having no luck. My next attempt was to have a look into works created using the [Geomerative Library](http://www.ricardmarxer.com/geomerative/). After having a brief look into the tutorials I became rather overwhelmed and instead began to look into how I would like my typeface generator to function. Using the little knowledge that I had I created a 2 question survey that when answered stacked the letter A of the 2 answers associated typefaces that were to be combined.<br/>
 Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2008./multiple_choice
 
-### Prototype survey screen. 
 <img allign = center><img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2008./mytype.gif"><br/>
 
 ### Processing class. 
