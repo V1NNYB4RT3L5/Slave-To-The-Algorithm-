@@ -9,6 +9,8 @@ Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/m
 ### Prototype survey screen. 
 <img allign = center><img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2008./mytype.gif"><br/>
 
+### *Karen FeedBack*
+
 Karen sugested that I look into transferring tabular data to processing, allowing me to create a spreadsheet that associates all possible answers from the MyType survey questions to a typeface, Processing can then recieve information from the spreadsheet depending on the users input. I found this [video](https://www.youtube.com/watch?v=woaR-CJEwqc) which explains how CSV files can be used by processing to generate certain inputs. We also discussed Geomerative again and had a look at this [example](http://generative-typografie.de/generativetypografie/bastard/) by Tobias Tschense generating font 'bastards' out of various parts of different fonts.
 
 <p Align = center ><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./Bastard%20.jpg><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./BASTARD.jpg><br/>
@@ -22,6 +24,10 @@ Another user of Geomerative named Stephanie Oppenhauser had created a system cal
 http://generative-typografie.de/generativetypografie/fontmix/
 
 There was alot of talk about [libraries](https://processing.org/reference/libraries/#typography).<br/>
+
+### *Breakout Group FeedBack*
+
+When presenting this in class It was brought to my attention that I had definitely not made the code as efficient as possible, for example I was introduced to the button function which opened the doors to many possibilities for the selecting of answers. During the milestone review I was also introduced to textToPoints by Karen.
 
 ### Processing class. 
 
