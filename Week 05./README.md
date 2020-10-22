@@ -5,8 +5,8 @@ MyType.
 A typeface generator that receives its parameters from personal characteristics and interests.
 The process begins with your input of answers to a series of questions about yourself, creating a combination of answers that is completely unique to you. These answers are then associated with parameters that will form your typeface. 
 ## Findings during the making of my pitch.
-### [MIT Media Lab]([https://www.media.mit.edu/) Logo. 
-Created by [Studio Thegreeneyl](http://www.thegreeneyl.com/) in collaboration with [E Roon Kang](http://www.eroonkang.com/projects/MIT-Media-Lab-Identity/), this MIT Media Lab visual identity has 45,000 variations. A custom web interface was developed in order to allow any member of the media lab to create and claim their very own shape. This work was appealing to me when in the process of figuring out how to create a unique typeface for each individual who uses my typeface generator, leading me to an idea of stacking prexisting typefaces on top of one another and sitting them on a grid then allocating different squares of the grid to different typefaces. <br/>
+### MIT Media Lab Logo. 
+Created by [Studio Thegreeneyl](http://www.thegreeneyl.com/) in collaboration with [E Roon Kang](http://www.eroonkang.com/projects/MIT-Media-Lab-Identity/), this [MIT Media Lab]([https://www.media.mit.edu/) visual identity has 45,000 variations. A custom web interface was developed in order to allow any member of the media lab to create and claim their very own shape. This work was appealing to me when in the process of figuring out how to create a unique typeface for each individual who uses my typeface generator, leading me to an idea of stacking prexisting typefaces on top of one another and sitting them on a grid then allocating different squares of the grid to different typefaces. <br/>
 <p align="center">
 <img width="300" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./Screen%20Shot%202020-08-19%20at%2010.14.59%20pm.png"> 
   <img width="380" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2005./MIT%20MEDIA%20LAB.jpg"> <br/> 
