@@ -21,7 +21,7 @@ My next step was to look into how to combine these arrays of points. I started i
 During Week 10 class Karen had introduced me to the [beginShape function](https://p5js.org/reference/#/p5/beginShape) which allows more complex shapes to be created by recording vertices. The idea was that by using the vertices that I had gathered from the textToPoints function I would be able to create the shapes of the letters.<br/>
 
 After a bit of mucking around I was able to produce a segment of a letter by taking points between 2 different y values and creating a shape out of them. I found that a higher aspect ratio made for a cleaner shape and helped prevent the crossing of line, however I had to swap out some typefaces as they just didn’t seem to agree with the procedure. <br/>
-Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2011./pointstoshapes <br/>
+**Here is the code:** https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2011./pointstoshapes <br/>
 
 <p Align = center ><img height = "200px" src =https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%209.15.02%20pm.png><img height = "200px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%2010.27.00%20pm.png><img height = "200px" src =https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-08%20at%2010.50.01%20pm.png><img height = "200px" src =https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2011./Screen%20Shot%202020-10-09%20at%2010.15.49%20am.png>
   
