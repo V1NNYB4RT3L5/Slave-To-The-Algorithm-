@@ -21,7 +21,7 @@ Another user of Geomerative named Stephanie Oppenhauser had created a system cal
 <p Align = left> Images sourced from:
 http://generative-typografie.de/generativetypografie/fontmix/
 
-there was alot of talk about [libraries](https://processing.org/reference/libraries/#typography)<br/>
+There was alot of talk about [libraries](https://processing.org/reference/libraries/#typography).<br/>
 
 ### Processing class. 
 
