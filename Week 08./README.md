@@ -3,12 +3,6 @@ Week 8 began with an update from everyone on where they were at. I presented my 
 
 <img width="450" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2008./Screen%20Shot%202020-09-23%20at%203.52.56%20pm.png"><br/>
 
-I had began trying to figure out how to make this system in Processing. So far I had played around with loading in an example letter as an image and trying to manipulate the array of pixels by only allowing a select section to appear but I was having no luck. My next attempt was to have a look into works created using the [Geomerative Library](http://www.ricardmarxer.com/geomerative/). After having a brief look into the tutorials I became rather overwhelmed and instead began to look into how I would like my typeface generator to function. Using the little knowledge that I had I created a 2 question survey that when answered stacked the letter A of the 2 answers associated typefaces that were to be combined.<br/>
-Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2008./multiple_choice
-
-### Prototype survey screen. 
-<img allign = center><img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2008./mytype.gif"><br/>
-
 ### *Karen FeedBack*
 
 Karen sugested that I look into transferring tabular data to processing, allowing me to create a spreadsheet that associates all possible answers from the MyType survey questions to a typeface, Processing can then recieve information from the spreadsheet depending on the users input. I found this [video](https://www.youtube.com/watch?v=woaR-CJEwqc) which explains how CSV files can be used by processing to generate certain inputs. We also discussed Geomerative again and had a look at this [example](http://generative-typografie.de/generativetypografie/bastard/) by Tobias Tschense generating font 'bastards' out of various parts of different fonts.
@@ -25,9 +19,11 @@ http://generative-typografie.de/generativetypografie/fontmix/
 
 There was alot of talk about [libraries](https://processing.org/reference/libraries/#typography).<br/>
 
-### *Breakout Group FeedBack*
+I had began trying to figure out how to make this system in Processing. So far I had played around with loading in an example letter as an image and trying to manipulate the array of pixels by only allowing a select section to appear but I was having no luck. My next attempt was to have a look into works created using the [Geomerative Library](http://www.ricardmarxer.com/geomerative/). After having a brief look into the tutorials I became rather overwhelmed and instead began to look into how I would like my typeface generator to function. Using the little knowledge that I had I created a 2 question survey that when answered stacked the letter A of the 2 answers associated typefaces that were to be combined.<br/>
+Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2008./multiple_choice
 
-When presenting this in class It was brought to my attention that I had definitely not made the code as efficient as possible, for example I was introduced to the button function which opened the doors to many possibilities for the selecting of answers. During the milestone review I was also introduced to textToPoints by Karen.
+### Prototype survey screen. 
+<img allign = center><img src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2008./mytype.gif"><br/>
 
 ### Processing class. 
 
