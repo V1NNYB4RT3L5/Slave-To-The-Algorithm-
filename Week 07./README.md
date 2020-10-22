@@ -1,5 +1,6 @@
 # Week 7.
 ### Paper Prototype and discussion.
+After seeing the use of grids everywhere in my research I went on to create a **paper prototype** of my system, representing the procedure of answers being allocated to typefaces, typefaces being called upon based on the users answers, typefaces being stacked evenly upon a grid, and then each pixel within that grid randomly allocating a typeface from the stack to represent. <br/>
 <p align="center">
 <img width="450" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2007./7583928560_IMG_4249.jpg"><img width="450" src="https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2007./7583928560_IMG_4250.jpg"><br/>
   <p align="left">
