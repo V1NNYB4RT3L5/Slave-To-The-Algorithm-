@@ -19,7 +19,7 @@ Here is the code: https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/m
 
 <img src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Week%2009./MyType.P5.gif>
 
-Issues I am having at the moment are... <br/>
-. textToPoints not listening to textAlign so letter outlines are not stacking on top of one another from the centre. <br/>
-. Differing letter height, even tho textSize is the same each letter has their own size. <br/>
+The biggest issue I found here was that regardless of being the same fontSize the letters were different sizes and not stacking up in a way that would allow them to be combined how I desired them to. In order to fix this I gave each array of points a specific font size and location that would allow them all to sit within the same set of boundaries. 
+
+<p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./samesize.gif>
 
