@@ -10,7 +10,7 @@ https://www.processing.org/examples/loaddisplaysvg.html <br/>
 - Breziers to connect anchor points with a clean curve. 
 https://processing.org/reference/bezier_.html <br/>
     
-I also recieved a link from Karen to Geomerative - http://www.ricardmarxer.com/geomerative/ - a library created to facilitate process of making generative typography and shapes in Processing. Geomeritave is a library for Processing that is used to facilitate the process of creating generative shapes, ‘This library exposes the shapes (such as vector drawings or typographies) in a more approchable way.’ By making it ‘easy’ to access paths, handles and points of typography Geomerative appeared to be the perfect way to merge pre-existing typefaces. 
+I also recieved a link from Karen to Geomerative - http://www.ricardmarxer.com/geomerative/ - Geomeritave is a library for Processing that is used to facilitate the process of creating generative shapes, ‘This library exposes the shapes (such as vector drawings or typographies) in a more approchable way.’ By making it ‘easy’ to access paths, handles and points of typography Geomerative appeared to be the perfect way to merge pre-existing typefaces. 
     
 ### Talk about Github becoming our website
 [Useful video](https://pages.github.com/) showing how we can make our githubs visible on a public domain.
