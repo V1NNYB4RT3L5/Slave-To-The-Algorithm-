@@ -11,7 +11,7 @@ After applying the createRadio function the idea became a whole lot more achieva
 **Here is the code:** https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/tree/master/Week%2012./MyTypeGenerator<br/>
 **And here is the link:** https://v1nnyb4rt3l5.github.io/Slave-To-The-Algorithm-/Week%2012./MyTypeGenerator/index.html
 
-<p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./MYTYPEfinal.gif>
+<p Align = center ><img height = "400px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Data./MYTYPEfinal.gif>
 
 ### My Statement 
 
