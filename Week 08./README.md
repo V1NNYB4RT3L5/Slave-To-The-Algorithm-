@@ -7,13 +7,13 @@ Week 8 began with an update from everyone on where they were at. I presented my 
 
 Karen sugested that I look into transferring tabular data to processing, allowing me to create a spreadsheet that associates all possible answers from the MyType survey questions to a typeface, Processing can then recieve information from the spreadsheet depending on the users input. I found this [video](https://www.youtube.com/watch?v=woaR-CJEwqc) which explains how CSV files can be used by processing to generate certain inputs. We also discussed Geomerative again and had a look at this [example](http://generative-typografie.de/generativetypografie/bastard/) by Tobias Tschense generating font 'bastards' out of various parts of different fonts.
 
-<p Align = center ><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./Bastard%20.jpg><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./BASTARD.jpg><br/>
+<p Align = center ><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Data./Bastard%20.jpg><img height = "250px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./BASTARD.jpg><br/>
 <p Align = left> Images sourced from:
 http://generative-typografie.de/generativetypografie/bastard/
   
 Another user of Geomerative named Stephanie Oppenhauser had created a system called fontMixer, again generating rather abstract typography from pre-existing fonts. This project also caught my eye due to its similarity to my idea. 
 
-<p Align = center ><img height = "300px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/MyType./Font%20Mix.png>
+<p Align = center ><img height = "300px" src = https://github.com/V1NNYB4RT3L5/Slave-To-The-Algorithm-/blob/master/Data./Font%20Mix.png>
 <p Align = left> Images sourced from:
 http://generative-typografie.de/generativetypografie/fontmix/
 
