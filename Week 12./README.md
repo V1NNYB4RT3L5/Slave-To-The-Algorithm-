@@ -28,6 +28,12 @@ I had my final chat with Karen and Andy where I was directed on how to use my fi
 
 ## Reflection.
 
+Participating in this studio has introduced me to the world of code in a way that I could not have imagined at the beginning of this semester. I’ve developed an awareness of algorithms in almost everything I do and a newfound appreciation for the complexity of systems that I use. In addition to building my understanding of code, this learning experience has also demonstrated to me the enormous potential of this area of design with seemingly endless possibilities. As a junior designer with an awareness of the ever growing potential and emphasis on online design, I have benefited from a growth in my knowledge of code which I will reflect in my future work. 
+
+As I reach the end of the semester I am proud of my progress toward the end of my project. Whilst I have not yet reached the point of completion anticipated in my project pitch assessment, my work to date provides the user with an understanding of what they can expect from MyType in its final form. With the skills that I have gained through creating this system, I now have the opportunity to continue to explore unique letterforms influenced by the individual characteristics  of human beings. My system supports an alliance between humans and machines, representing the way in which algorithms can facilitate typically time consuming activities when conducted by humans. This user/machine relationship has been considered in similar systems to MyType that I have learnt about during my research, however with so much time dedicated to reading, deciphering and writing code I am yet to gain a complete understanding of their processes. Looking back on my experience I believe more of a focus on research would have been beneficial both technically and visually.  
+
+MyType enabled me to extend my knowledge of design elements and principles to an interactive setting and refined and increased my initial strong interest in typography. I look forward to continuing to build upon this knowledge and incorporating the learning into my future projects. 
+
 
 
 
